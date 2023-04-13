@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Potrok2/PSXDUPE/main/PSXDUPE.lua", true))()
